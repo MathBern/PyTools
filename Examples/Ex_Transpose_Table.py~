@@ -1,0 +1,11 @@
+import sys
+
+import matplotlib.pyplot as plt
+
+sys.path.append("/home2/matheus15/Tratamento_de_Dados/PyTools/PyTools")
+
+import __init__ as PT
+
+PT.Transpose_Table('../Data/result.csv')
+
+
