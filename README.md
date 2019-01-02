@@ -1,2 +1,2 @@
 # PyTools
-A simple Python package with usefull (or not) tools.
+Useless repository to learn how to use GitHub
